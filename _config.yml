@@ -21,8 +21,8 @@ name                     : &name "Xiang Hu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "avatar.jpg"
+  name             : "Xiang Hu"
   pronouns         : "he/his"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai"
